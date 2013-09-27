@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain in the USA.</dc:rights>
@@ -30,7 +29,7 @@
     <item href="18269-h-8.html" id="item12" media-type="application/xhtml+xml"/>
     <item href="18269-h-9.html" id="item13" media-type="application/xhtml+xml"/>
     <item href="18269-h-10.html" id="item14" media-type="application/xhtml+xml"/>
-    <item href="18269-h-11.html" id="item15" media-type="application/xhtml+xml"/>
+    <item href="content/aa5c407f-563e-4966-91c8-696cd8cfecc6" id="content/aa5c407f-563e-4966-91c8-696cd8cfecc6" media-type="application/xhtml+xml"/><item href="18269-h-11.html" id="item15" media-type="application/xhtml+xml"/>
     <item href="18269-h-12.html" id="item16" media-type="application/xhtml+xml"/>
     <item href="18269-h-13.html" id="Page_292" media-type="application/xhtml+xml"/>
     <item href="18269-h-14.html" id="item17" media-type="application/xhtml+xml"/>
