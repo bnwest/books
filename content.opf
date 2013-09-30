@@ -17,7 +17,7 @@
     <item href="pgepub.css" id="item1" media-type="text/css"/>
     <item href="content/5c66fcc5-91f2-4913-9e29-be3434f01d96" id="content/5c66fcc5-91f2-4913-9e29-be3434f01d96" media-type="application/xhtml+xml"/><item href="0.css" id="item2" media-type="text/css"/>
     <item href="1.css" id="item3" media-type="text/css"/>
-    <item href="toc.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
+    <item href="content/7c3f09b8-0a95-4546-ba16-5749f060a00a" id="content/7c3f09b8-0a95-4546-ba16-5749f060a00a" media-type="application/xhtml+xml"/><item href="toc.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="18269-h-0.html" id="item4" media-type="application/xhtml+xml"/>
     <item href="18269-h-1.html" id="item5" media-type="application/xhtml+xml"/>
     <item href="18269-h-2.html" id="item6" media-type="application/xhtml+xml"/>
