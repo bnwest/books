@@ -1,5 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
   <head>undefined</head>
-  <body>undefined</body>
+  <body><div class="title">Theoretical Perspectives on Education</div>
+    <h1 data-depth="1" id="gd-idm2428432">Functionalism Demo</h1>
+      <p class="para" id="gd-idm35904464">Functionalists view education as one of the more important social institutions in a society. They contend that education contributes two kinds of functions: manifest (or primary) functions, which are the intended and visible functions of education; and latent (or secondary) functions, which are the hidden and unintended functions.</p>
+      <h2 data-depth="2" id="gd-idm14482624">Manifest Functions</h2>
+        <p class="para" id="gd-idm9053376">There are several major manifest functions associated with education. The first is socialization. Beginning in preschool and kindergarten, students are taught to practice various societal roles. The French sociologist Émile Durkheim (1858-1917), who established the academic discipline of sociology, characterized schools as "socialization agencies that teach children how to get along with others and prepare them for adult economic roles" (Durkheim 1898).</p>
+        <p class="para" id="gd-idm11581168">
+          <br>
+        </p>
+        <p class="para" id="gd-idm23924944">
+          <span class="media" id="gd-idm1609712" data-alt="">
+            <img src="https://lh4.googleusercontent.com/GgG68_VwVQN3YGuAyLh6aDaUGIhNvH-f3iDoKW6NO99pdqG0LprenpYTtXbKrQOSzyxOMFIQPiUUcU73k7mskbM1PP32LtB3TzmdrGkFAx2t" data-mime-type="" alt="" height="297" width="448">
+          </span>
+        </p>
+        <p class="para" id="gd-idm7761168">
+          <br>
+        </p>
+        <p class="para" id="gd-idm12026400">The National Center for Fair &amp; Open Testing (FairTest) is committed to ending the bias and other flaws seen in standardized testing. Their mission is to ensure that students, teachers, and schools are evaluated fairly. You can learn more about their mission, as well as the latest in news on test bias and fairness, at their website: <a href="http://fairtest.org/">http://fairtest.org/</a></p>
+        <p class="para" id="gd-idm16115088">
+          <br>
+        </p>
+      
+      <h2 data-depth="2" id="gd-idm35568528">Big image below:</h2>
+        <p class="para" id="gd-idm11904224">
+          <span class="media" id="gd-idm11700560" data-alt="">
+            <img src="https://lh4.googleusercontent.com/GgG68_VwVQN3YGuAyLh6aDaUGIhNvH-f3iDoKW6NO99pdqG0LprenpYTtXbKrQOSzyxOMFIQPiUUcU73k7mskbM1PP32LtB3TzmdrGkFAx2t" data-mime-type="" alt="" height="535" width="808">
+          </span>
+        </p>
+        <p class="para" id="gd-idm11243520">
+          <br>
+        </p>
+        <p class="para" id="gd-idm11068480">
+          <strong>Manifest and Latent Functions of Education</strong>
+        </p>
+        <table><tbody>
+              <tr>
+                <td>
+                  <p class="para" id="gd-idm10259600">
+                    <strong>Manifest Functions</strong>
+                  </p>
+                </td>
+                <td>
+                  <p class="para" id="gd-idm6153568">
+                    <strong>Latent Functions</strong>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p class="para" id="gd-idm12617408">Socialization</p>
+                </td>
+                <td>
+                  <p class="para" id="gd-idm12069200">Courtship</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p class="para" id="gd-idm10186976">Transmission of culture</p>
+                </td>
+                <td>
+                  <p class="para" id="gd-idm10190336">Social Networks</p>
+                </td>
+              </tr>
+            </tbody></table>
+      
+    
+    <h1 data-depth="1" id="gd-idm10332240">Laws of Exponents</h1>
+      <p class="para" id="gd-idm11069872">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <semantics>
+            <mrow>
+              <msup>
+                <mi>x</mi>
+                <mi>a</mi>
+              </msup>
+              <mspace width="0"></mspace>
+              <msup>
+                <mi>x</mi>
+                <mi>b</mi>
+              </msup>
+              <mo lspace="0.278em" rspace="0.278em">=</mo>
+              <msup>
+                <mi>x</mi>
+                <mrow>
+                  <mi>a</mi>
+                  <mo lspace="0" rspace="0">+</mo>
+                  <mi>b</mi>
+                </mrow>
+              </msup>
+            </mrow>
+            <annotation encoding="math/tex">{x}^{a}{x}^{b}={x}^{a+b}</annotation>
+          </semantics>
+        </math>
+      </p>
+      <h2 data-depth="2" id="gd-idm11869552">Lists</h2>
+        <ul class="list" data-id="gd-idm26476944" data-list-type="bulleted">
+          <li class="item">Bullet 1</li>
+          <li class="item">Bullet 2</li>
+        </ul>
+        <ul class="list" data-id="gd-idm8996336" data-list-type="bulleted">
+          <li class="item">Numbered one (depth = 2)</li>
+          <li class="item">Numbered two</li>
+        </ul>
+        <p class="para" id="gd-idm11788896">
+          <br>
+        </p>
+        <ul class="list" data-id="gd-idm3520944" data-list-type="bulleted">
+          <li class="item">Numbered (depth = 1)</li>
+          <li class="item">Numbered two</li>
+        </ul>
+        <p class="para" id="gd-idm21369632">
+          <br>
+        </p></body>
 </html>
